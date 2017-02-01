@@ -1,0 +1,32 @@
+.imgport {
+	width: 200px;
+	height: 200px;
+	float:left;
+	overflow:auto;
+	padding: 0px 20px 10px 0px;
+}
+
+.minilogo {
+	width:64px;
+	height:64px;
+}
+
+.wrap {
+	width: 960px;
+	margin: 1500px;
+}
+
+.head {
+	position: fixed;
+	width: 100%;
+	height: auto;
+
+}
+
+header {
+	position: fixed;
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	overflow:auto;
+}
