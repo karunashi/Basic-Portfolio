@@ -66,10 +66,10 @@ h1, h2, h3 {
 	color: #4aaaa5;
 }
 
-ah1 {
+h1 {
 	position: relative;
 	max-width: 960px;
-	left: 14.5%;
+	left: 11.5%;
 	margin-left: auto;
 	margin-right: auto;
 	color: #ffffff;
@@ -77,12 +77,7 @@ ah1 {
 	float:left;
 	padding: 25px 0 25px 0;
 	margin-bottom: 0;
-}
-
-h1 a {
-	color: #ffffff;
-	background:#4aaaa5;
-	padding: 35px;
+	margin-top: 0;
 }
 
 nav {
@@ -199,7 +194,7 @@ aside {
 }
 
 /**
-Unvisited Link 
+Unvisited Link (no color change purposes)
 **/
 
 a:link {
@@ -207,7 +202,7 @@ a:link {
 }
 
 /** 
-Visited Link
+Visited Link (no color change purposes)
  **/
 
 a:visited {
